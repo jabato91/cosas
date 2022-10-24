@@ -2,7 +2,7 @@
 Asignaturas:
 * Entornos 
 
-![Alt text](https://www.gitkraken.com/wp-content/uploads/2021/06/gitkraken-logo-dark-sq.png?w=1)
+![Alt text](https://drive.google.com/file/d/1A6smzAUoMmNbQc-cn-l3urTpMyKLuU7I/view?usp=sharing)
 * Programación
 * Bases de datos
 * Lenguajes de marcas
