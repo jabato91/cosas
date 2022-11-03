@@ -1,1 +1,9 @@
-
+# ⓟⓡⓞⓖⓡⓐⓜⓐⓒⓘⓞⓝ
+private static double pedirDatosDouble(String pregunta) {
+			
+			System.out.print(pregunta);
+			Scanner entrada=new Scanner(System.in);
+			double dato = entrada.nextDouble();
+			return dato;
+			
+		}
