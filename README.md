@@ -25,6 +25,14 @@
   --
  | DAW  | 6                 |        9.1         | 7.9                |
   --
+  
+  
+- [x] Examen 1er trimestre
+- [ ] Examen 2º trimestre
+- [x] deberes
+- [x] trabajo conjunto
+- [ ] Examen 3er trimestre
+- [ ] Examen final
 
   
   
