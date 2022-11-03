@@ -34,4 +34,4 @@
   
  https://github.com/ivanjoni/Markdown.git
   
- ![alt text](Captura de pantalla 2022-11-03_193627.jpg)
+ ![alt text](image.jpg)
