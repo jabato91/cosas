@@ -4,7 +4,7 @@
 
 * [Entornos](entornos)
 * [Programación](programación)
-* [Bases de datos](bases de datos)
+* [Bases de datos](bases_de_datos)
 * [Lenguajes de marcas](Lenguajes de marcas)
 * [Sistemas](sistemas)
 * [FOL](fol)
