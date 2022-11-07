@@ -20,11 +20,11 @@
   
   
  | Nota | Primera evaluacion| Segunda evaluacion | Tercera evaluacion |
-  --
+ |--|--|--|--|
  | DAM  | 1.6               | 4.4                | por calificar      |
-  --
+|--|--|--|--|
  | DAW  | 6                 |        9.1         | 7.9                |
-  --
+ |--|--|--|--|
   
   
 - [x] Examen 1er trimestre
