@@ -18,6 +18,7 @@
   
   |hola|bb|
   |--|--|
+  |tus|muertos
   
   
  | Nota | Primera evaluacion| Segunda evaluacion | Tercera evaluacion |
