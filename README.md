@@ -16,7 +16,8 @@
 * [FOL](FOL)
 
   
-  
+  |hola|bb|
+  |--|--|
   
   
  | Nota | Primera evaluacion| Segunda evaluacion | Tercera evaluacion |
